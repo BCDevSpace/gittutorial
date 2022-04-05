@@ -1,2 +1,3 @@
-[DThis is a sample text file, text is ok. File is updated.
-ls
+[DThis is a sample text file, text is ok. File is updasted.
+ls 
+some changes required as part of stash testing
